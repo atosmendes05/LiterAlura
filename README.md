@@ -25,6 +25,14 @@ Este projeto é um sistema para gerenciamento de livros e autores. Ele permite b
    ```
 5. Interaja com o sistema através da interface de linha de comando.
 
+6. ## Como Utilizar
+
+1. Ao iniciar o sistema, o menu com as opções acima será exibido.
+2. Digite o número correspondente à funcionalidade desejada e pressione Enter.
+3. Siga as instruções na tela para fornecer os dados necessários (como título do livro ou idioma).
+4. O sistema retornará os resultados ou executará a ação correspondente.
+
+
 ## Onde Encontrar Ajuda
 Se você encontrar problemas ou tiver dúvidas sobre o projeto, pode consultar as seguintes opções:
 - [Documentação do Spring Boot](https://spring.io/projects/spring-boot)
